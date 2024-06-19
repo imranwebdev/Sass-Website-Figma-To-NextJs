@@ -25,11 +25,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React" width="50" height="50"/>
 
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://asset.brandfetch.io/id2alue-rx/iduLChSb1a.jpeg?updated=1714556222178" alt="Next.js" width="50" height="50"/>
 
   <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="50" height="50"/>
 
-  <img src="https://www.typescriptlang.org/images/branding/logo-grouping.svg" alt="TypeScript" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50"/>
 
 </div>
 
