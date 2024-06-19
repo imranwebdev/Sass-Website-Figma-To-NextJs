@@ -5,7 +5,7 @@ import Text from "../_ui/Text";
 import { FiDatabase } from "react-icons/fi";
 export default function TestimonialsSection() {
   return (
-    <div className="testimonialSection bg-[#161C28] flex flex-col items-center justify-between gap-10 lg:flex-row mt-28  lg:py-32 py-10 pt-20 px-6 py-12 md:px-20  ">
+    <div className="testimonialSection bg-[#161C28] flex flex-col md:flex-row items-center justify-between gap-10 lg:flex-row mt-28  lg:py-32  pt-20 px-6 py-12 lg:px-20  ">
       <div className="leftColumn md:w-1/2">
         <Heading
           className="text-3xl lg:text-4xl pb-5 font-bold"
