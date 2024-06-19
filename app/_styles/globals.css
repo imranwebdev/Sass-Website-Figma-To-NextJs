@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+.no-scroll {
+  overflow: hidden;
+}
+
+/* Grid overlay styling */
+/* .grid-overlay {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(10, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 0px;
+  pointer-events: none; 
+  z-index: 9999; 
+} */
+
+@layer utilities {
+  /* for humburger menu animation */
+  .menu-icon.active .line-1 {
+    transform: translateY(12px) rotate(45deg);
+  }
+
+  .menu-icon.active .line-2 {
+    opacity: 0;
+  }
+
+  .menu-icon.active .line-3 {
+    transform: translateY(-12px) rotate(-45deg);
+  }
+}
