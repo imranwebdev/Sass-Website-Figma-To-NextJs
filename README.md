@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+<a href="https://sass-website-figma-to-next-js.vercel.app/"><b>Live Preview</b></a>
 ## Getting Started
 
 First, run the development server:
