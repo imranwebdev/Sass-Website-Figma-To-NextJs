@@ -30,7 +30,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
   <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="50" height="50"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50"/>
- <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg" alt="Tailwind" width="100" height="100"/>
+ <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind" width="50" height="50"/>
 
 </div>
 
