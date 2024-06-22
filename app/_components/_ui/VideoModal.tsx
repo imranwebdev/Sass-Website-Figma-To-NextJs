@@ -12,7 +12,7 @@ const VideoModal: React.FC<VideoModalProps> = ({ show, onClose }) => {
 
   return (
     <div style={modalStyle} className="">
-      <div style={modalContentStyle} className="m-10 md:m-0 w-[80%]">
+      <div style={modalContentStyle} className="m-10 md:m-0 w-[80%] lg:w-full">
         <button style={closeButtonStyle} onClick={onClose}>
           ×
         </button>
