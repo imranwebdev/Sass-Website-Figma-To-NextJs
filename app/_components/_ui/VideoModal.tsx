@@ -17,7 +17,7 @@ const VideoModal: React.FC<VideoModalProps> = ({ show, onClose }) => {
           ×
         </button>
         <iframe
-          className="w-full h-[250px]"
+          className="w-full h-[250px] lg:h-420px"
           src="https://www.youtube.com/embed/ZK-rNEhJIDs"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
