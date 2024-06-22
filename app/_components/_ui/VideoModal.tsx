@@ -12,12 +12,12 @@ const VideoModal: React.FC<VideoModalProps> = ({ show, onClose }) => {
 
   return (
     <div style={modalStyle} className="">
-      <div style={modalContentStyle} className="m-10 md:m-0 w-[80%] lg:w-full">
+      <div style={modalContentStyle} className="m-10 md:m-0 w-[80%]">
         <button style={closeButtonStyle} onClick={onClose}>
           ×
         </button>
         <iframe
-          className="w-full h-[250px]   md:w-[560px] md:h-[315px]"
+          className="w-full h-[250px]"
           src="https://www.youtube.com/embed/ZK-rNEhJIDs"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
